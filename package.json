@@ -1,0 +1,14 @@
+{
+  "name": "platzidate",
+  "version": "1.0.0",
+  "description": "Utilidad para formatear fechas en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": ["date", "format", "platziconf"],
+  "author": "Harold Santos <haroldsantos@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs"
+}
