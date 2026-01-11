@@ -1,6 +1,6 @@
 {
   "name": "platzidate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilidad para formatear fechas en JavaScript",
   "main": "src/index.js",
   "scripts": {
