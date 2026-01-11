@@ -1,5 +1,5 @@
 {
-  "name": "platzidate",
+  "name": "@haroldsantos/date-format",
   "version": "1.0.1",
   "description": "Utilidad para formatear fechas en JavaScript",
   "main": "src/index.js",
